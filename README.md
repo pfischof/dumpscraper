@@ -1,6 +1,6 @@
 # DumpScraper
 
-DumpScraper is a simple script written in bash.
+DumpScraper is a simple shell script.
 It aims to look for a specific phrase in files. I originally wrote it to search through database dumps, such as [Collection #1](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/).
 
 ### Running the script
